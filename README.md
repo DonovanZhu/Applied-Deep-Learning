@@ -1,3 +1,2 @@
 # Applied-Deep-Learning
-#Test
 
